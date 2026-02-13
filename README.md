@@ -123,5 +123,20 @@ The project follows a modular architecture:
 
 ---
 
+## Screenshots
+
+### Login Page
+![Login](screenshots/login.jpg)
+
+### Register Page
+![Register](screenshots/Register.jpg)
+
+### Dashboard
+![Dashboard](screenshots/Dashboard.jpg)
+
+### Edit Task
+![Edit Task](screenshots/EditTask.jpg)
+
+
 ## Author
 Rohit Kudande
